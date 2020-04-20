@@ -3,5 +3,5 @@
  just support PNG and JPG Format!<br>
  ---------------------------------<br>
  --tutorial--<br>
- coming soon!<br>
+Video:https://youtu.be/Tn2OC0YiEr8
  ---------------------------------
